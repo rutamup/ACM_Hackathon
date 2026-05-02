@@ -4,8 +4,7 @@ An intelligent productivity system that helps users decide what to work on and h
 
 ## Live Demo
 
-https://your-deployed-link.com
-
+https://acm-hackathon-eta.vercel.app
 Recommended for the best experience.
 
 ## Overview
