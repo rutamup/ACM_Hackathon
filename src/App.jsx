@@ -488,7 +488,7 @@ function App() {
     <main className="app-shell">
       <section className="hero-panel">
         <div>
-          <p className="eyebrow">FocusFlow</p>
+          <p className="eyebrow">Focus Flow</p>
           <h1>Plan the task, tune the session, start the timer.</h1>
           <div className="hero-actions">
             <button onClick={handleViewDashboard}>View Dashboard</button>
