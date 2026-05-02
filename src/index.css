@@ -435,7 +435,13 @@ h2 {
 /* ─── Task entry panel ───────────────────────────────────────────────── */
 .task-panel {
   display: grid;
-  gap: 14px;
+  gap: 16px;
+}
+
+/* ─── Suggestion panel ───────────────────────────────────────────────── */
+.suggestion-panel {
+  display: grid;
+  gap: 16px;
 }
 
 .plan-card {
@@ -830,6 +836,7 @@ h2 {
   .app-shell {
     width: min(calc(100% - 20px), 560px);
     padding: 12px 0 40px;
+<<<<<<< HEAD
   }
 
   .queue-item {
@@ -843,6 +850,8 @@ h2 {
 
   .queue-desc {
     display: none;
+=======
+>>>>>>> 8398810 (my local changes)
   }
 
   .hero-panel,
@@ -939,6 +948,7 @@ h2 {
   .hero-stats span {
     font-size: 1.5rem;
   }
+<<<<<<< HEAD
 }
 
 /* ─── Add-task form ──────────────────────────────────────────────────── */
@@ -1371,4 +1381,6 @@ h2 {
 
 .tl-break {
   color: #22c55e; /* Green */
+=======
+>>>>>>> 8398810 (my local changes)
 }
