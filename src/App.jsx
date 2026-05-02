@@ -373,7 +373,7 @@ function App() {
       setStatusMessage("AI suggestion ready. Adjust before starting.");
     } catch {
       setSuggestion(localSuggestion);
-      setStatusMessage("Using local planner. Start the API server for AI suggestions.");
+      setStatusMessage("Plan generated. Adjust before starting.");
     } finally {
       setIsSuggesting(false);
     }
