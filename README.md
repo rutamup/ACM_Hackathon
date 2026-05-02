@@ -3,8 +3,7 @@
 An intelligent productivity system that helps users decide what to work on and how to approach it using AI.
 
 ## Live Demo
-
-https://your-deployed-link.com
+acm-hackathon-9u15-3zqcuqi1n-rutamups-projects.vercel.app
 
 Recommended for the best experience.
 
